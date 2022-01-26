@@ -1,0 +1,4 @@
+# DFT rung: Hartree = 0, LDA = 1, GGA = 2, hybrid = 4, Hartree-Fock = 666
+  666
+# quadrature grid SG-n
+  1

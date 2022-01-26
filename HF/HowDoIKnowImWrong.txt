@@ -1,0 +1,88 @@
+He/VDZ
+
+           ---------------------------------------
+           Summary              
+           ---------------------------------------
+           One-electron energy      -3.8820256581
+           Kinetic      energy       2.8551790622
+           Potential    energy      -6.7372047203
+           ---------------------------------------
+           Two-electron energy       1.0268651808
+           Coulomb      energy       2.0537303616
+           Exchange     energy      -1.0268651808
+           ---------------------------------------
+           Electronic   energy      -2.8551604772
+           Nuclear   repulsion       0.0000000000
+           Hartree-Fock energy      -2.8551604772
+           ---------------------------------------
+           HF HOMO      energy (eV):   -24.875132
+           HF LUMO      energy (eV):    38.026406
+           HF HOMO-LUMO gap    (eV):    62.901538
+           ---------------------------------------
+
+He/VTZ
+
+           ---------------------------------------
+           Summary              
+           ---------------------------------------
+           One-electron energy      -3.8870491236
+           Kinetic      energy       2.8611282395
+           Potential    energy      -6.7481773631
+           ---------------------------------------
+           Two-electron energy       1.0258955496
+           Coulomb      energy       2.0517910991
+           Exchange     energy      -1.0258955496
+           ---------------------------------------
+           Electronic   energy      -2.8611535740
+           Nuclear   repulsion       0.0000000000
+           Hartree-Fock energy      -2.8611535740
+           ---------------------------------------
+           HF HOMO      energy (eV):   -24.969804
+           HF LUMO      energy (eV):    16.058957
+           HF HOMO-LUMO gap    (eV):    41.028761
+           ---------------------------------------
+
+Be/VDZ
+
+           ---------------------------------------
+           Summary              
+           ---------------------------------------
+           One-electron energy     -19.0610907227
+           Kinetic      energy      14.5599034561
+           Potential    energy     -33.6209941788
+           ---------------------------------------
+           Two-electron energy       4.4887276846
+           Coulomb      energy       7.1543567833
+           Exchange     energy      -2.6656290987
+           ---------------------------------------
+           Electronic   energy     -14.5723630381
+           Nuclear   repulsion       0.0000000000
+           Hartree-Fock energy     -14.5723630381
+           ---------------------------------------
+           HF HOMO      energy (eV):    -8.409815
+           HF LUMO      energy (eV):     1.584523
+           HF HOMO-LUMO gap    (eV):     9.994338
+           ---------------------------------------
+
+Ne/VDZ
+
+           ---------------------------------------
+           Summary              
+           ---------------------------------------
+           One-electron energy    -182.6152956703
+           Kinetic      energy     128.4669758434
+           Potential    energy    -311.0822715137
+           ---------------------------------------
+           Two-electron energy      54.1264294984
+           Coulomb      energy      66.2501405080
+           Exchange     energy     -12.1237110096
+           ---------------------------------------
+           Electronic   energy    -128.4888661719
+           Nuclear   repulsion       0.0000000000
+           Hartree-Fock energy    -128.4888661719
+           ---------------------------------------
+           HF HOMO      energy (eV):   -22.647891
+           HF LUMO      energy (eV):    46.107410
+           HF HOMO-LUMO gap    (eV):    68.755301
+           ---------------------------------------
+

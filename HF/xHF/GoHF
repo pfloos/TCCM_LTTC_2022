@@ -1,0 +1,20 @@
+#! /bin/bash
+  
+set -e
+
+if [ $# -ne 2 ]
+then
+  echo "You need two arguments [Molecule] [Basis] !!" 
+fi
+
+if [ $# = 2 ]
+then
+  cp examples/molecule."$1"     input/molecule
+  cp examples/basis."$1"."$2"   input/basis
+  cp examples/Ov."$1"."$2".dat  int/Ov.dat
+  cp examples/Kin."$1"."$2".dat int/Kin.dat
+  cp examples/Nuc."$1"."$2".dat int/Nuc.dat
+  cp examples/ERI."$1"."$2".dat int/ERI.dat
+  ./bin/xHF
+fi
+
